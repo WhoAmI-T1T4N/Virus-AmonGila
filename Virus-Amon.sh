@@ -155,7 +155,7 @@ echo -e $gn "Masukan User Anda Lagi"
  echo -e $bk "@@@@@@@@@@@@@@@@@@@@"
      read -p "Kirim ? =>" pp
 fi
-if [[ $pp == 2 || $pp == 2 ]]
+if [[ $pp == 1 || $pp == 1 ]]
 then
 clear
  read -p "Kirimkan Kemana? =>" pop
