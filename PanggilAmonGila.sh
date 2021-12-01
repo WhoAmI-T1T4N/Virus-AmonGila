@@ -99,6 +99,44 @@ sleep 5
 echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
 sleep 5
 echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Amon Sedang Di Kirim Ke" $km
 fi
 if [[ $vp == 2 || $vp == 2 ]]
 then
@@ -207,5 +245,127 @@ sleep 5
 echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
 sleep 5
 echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $km
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
+sleep 5
+echo -e $bl "Virus Kratos Sedang Di Kirim Ke" $keju
 fi
-
+if [[ $vp == 4 || $vp == 4 ]]
+then
+clear
+echo -e $gn "Masukan User Anda Lagi"
+  echo -e $gn "Masukan Pass Anda Lagi"
+  read -p "User =>" kl
+  sleep 5
+  echo -e $gn "User Terverifikasi"
+  read -p "Pass =>" kp
+  sleep 5
+  echo -e $gn "Pass Terverifikasi"
+ clear
+ echo -e $bk "@@@@@@@@@@@@@@@@@@@@"
+ echo -e $yl "1]. Kirim Sekarang"
+ echo -e $bk "@@@@@@@@@@@@@@@@@@@@"
+     read -p "Kirim ? =>" kok
+fi
+if [[ $kok == 1 || $kok == 1 ]]
+then
+clear
+ read -p "Kirimkan Kemana? =>" pk
+clear
+echo -e $bl "Virus Kloninggannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloninggannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloninggannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloninggannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloninggannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloninggannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloninggannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloninggannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+sleep 5
+echo -e $bl "Virus Kloningannya Farel Sedang Di Kirim Ke" $pk
+fi
+if [[ $vp == 5 || $vp == 5 ]]
+then
+figlet "Dadah"|lolcat
+figlet "Beban"|lolcat
+fi
